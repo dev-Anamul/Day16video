@@ -9,7 +9,9 @@
   background-repeat: no-repeat;
   background-position: center center;
   padding: 250px 0 !important;
+  position: relative;
 }
+
 .banner__content {
 }
 .banner__heading {
